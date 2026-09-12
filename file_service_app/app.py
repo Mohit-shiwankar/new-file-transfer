@@ -11,3 +11,5 @@ if __name__ == "__main__":
     app.run(debug=True)
     # addng this comment
 app.run == "main"
+app.run2  == "main"
+
